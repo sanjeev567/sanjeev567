@@ -1,8 +1,8 @@
 # <center>Sanjeev Kumar Singh</center>
 
 <p align="center">
-  <a href="https://github.com/johndoe">
-    <img src="./img/profile-img.jpg" alt="Profile Picture" width="200px" height="200px" style="border-radius:50%; object-fit: cover;">
+  <a href="https://github.com/sanjeev567">
+    <img src="https://i.postimg.cc/DfJgxGQw/212139585-3039558919658880-4549940087433703499-n.jpg" alt="Profile Picture" width="200px" height="200px" style="border-radius:50%; object-fit: cover;">
   </a>
 </p>
 

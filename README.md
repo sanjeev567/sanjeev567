@@ -30,7 +30,7 @@ I am a passionate software developer with experience in various programming lang
 
 ### Project 1
 
-[![Project 1](./img/p1.png)](https://github.com/sanjeev567/Mern-Ecommerce)
+[![Project 1](https://i.postimg.cc/MHhpGVc5/p1.png)](https://github.com/sanjeev567/Mern-Ecommerce)
 
 **E-Commerce shoping app using MERN stack**
 
@@ -41,13 +41,13 @@ I am a passionate software developer with experience in various programming lang
 
 ### Project 2
 
-[![Project 2](./img/p2.png)](https://github.com/johndoe/project2)
+[![Project 2](https://i.postimg.cc/DwQw2W7Q/p2.png)](https://github.com/sanjeev567/atomize-clone)
 
 **Clone using react and sass | Try to make exact as atomize original site looks**
 
 ### Project 3
 
-[![Project 3](./img/p3.png)](https://github.com/sanjeev567/sanjeevsingh)
+[![Project 3](https://i.postimg.cc/PqtrNtqg/p3.png)](https://github.com/sanjeev567/sanjeevsingh)
 
 **Ad searching app**
 

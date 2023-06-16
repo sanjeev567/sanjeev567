@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sanjeev567">
-    <img src="https://i.postimg.cc/DfJgxGQw/212139585-3039558919658880-4549940087433703499-n.jpg" alt="Profile Picture" width="200px" height="200px" style="border-radius:50%; object-fit: cover;">
+    <img src="https://i.postimg.cc/DfJgxGQw/212139585-3039558919658880-4549940087433703499-n.jpg" alt="Profile Picture" width="200" height="200" style="display: block; margin: 0 auto; border-radius: 50%;">
   </a>
 </p>
 
@@ -70,4 +70,6 @@ I am a passionate software developer with experience in various programming lang
 
 ---
 
-<center>&copy; 2023 Sanjeev Kumar Singh</center>
+<div style="text-align: center;">
+  <p>&copy; 2023 Sanjeev Kumar Singh</p>
+</div>

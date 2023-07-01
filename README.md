@@ -1,4 +1,4 @@
-# <center style="display: block; margin: 0 auto;">Sanjeev Kumar Singh</center>
+# <p style="display: block; margin: 0 auto;">Sanjeev Kumar Singh</p>
 
 <p align="center">
   <a href="https://github.com/sanjeev567">

@@ -1,4 +1,4 @@
-# <center>Sanjeev Kumar Singh</center>
+# <center style="display: block; margin: 0 auto;">Sanjeev Kumar Singh</center>
 
 <p align="center">
   <a href="https://github.com/sanjeev567">
@@ -70,6 +70,6 @@ I am a passionate software developer with experience in various programming lang
 
 ---
 
-<div style="text-align: center;">
+<div style="display: block; margin: 0 auto;">
   <p>&copy; 2023 Sanjeev Kumar Singh</p>
 </div>

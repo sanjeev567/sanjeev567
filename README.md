@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/sanjeev567">GitHub</a> |
   <a href="https://linkedin.com/in/sanjeev-singh-8feb/">LinkedIn</a> |
-  <a href="https://johndoe.com">Website</a>
+  <a href="https://portfolio-sanjeev.netlify.app">Website</a>
 </p>
 
 ---

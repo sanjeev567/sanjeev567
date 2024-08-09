@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">Software Developer</p>
+<p align="center">Full Stack MERN | MEAN  Developer</p>
 
 <p align="center">
   <a href="https://github.com/sanjeev567">GitHub</a> |
@@ -18,49 +18,62 @@
 
 ## About Me
 
-I am a passionate software developer with experience in various programming languages and technologies. I enjoy building innovative and efficient solutions to complex problems. My areas of expertise include:
+Full Stack Developer | 2 Years of Experience in MERN & MEAN Stack | AWS - Nginx - S3 -  | Docker Containerization | CI/CD Specialist | React Native | AI & ML (LLM, Langchain, Face-api)
 
-- Frontend Development
-- Backend Development
-- Database Administrator
+Area Of Expertize
+- Frontend Development :  React, Angular, React Native,  TypeScript, Tailwind, Bootstrap, Material UI, HTML5, CSS3, SCSS, 
+- Backend Development : Node.js, Express, REST API'S, JWT, Multi-Part, Joy, Multer
+- Version Control & Automation: Git, Docker, Swarm, Kubernetes, AWS, Nginx, CI/CD
+- AI & ML : LLM , Langchain & Face api
+- Databases: Mysql, MongoDB
+- Soft Skills: Leadership, Teamwork, Documentation & Communication
+
+---
+## Experience: 
+**Full Stack Developer** Apr 2024 - Ongoing
+Troibits Infotech Gurugram, IN
+• working on Admin Dashboard to build face recognition attendance system using face-api, roles & permissions, dates, Big Calendar, cron-jobs, multipart api’s, multer, file handling, aws hosting, nginx configurations, pipelines, s3 for image & file upload.
+• working on charts, data tables, .xlsx and pdf invoice generation.
+
+Full Stack Trainee Sep 2023 - Apr 2024
+Rudra Innovative Mohali, IN
+• Build E-commerce application, implementing authentication & authorization, roles and permission using JWT token. Design a database schemas and relations. Stripe custom payment gateway integration, written unit and integration tests, create Swagger API docs for testing team.
+• Work on Docker containerization, Utilize AI tools like LLM & langchain to build features: text summarization & chatbots. Written CI/CD pipeline using github, gitlab and jenkins
+• SOLID Principles, DRY Priciples, Code Refactoring to build enterprise level app.
 
 ---
 
 ## Featured Projects
 
-### Project 1
+### 1. Admin Web app for Attendance, Invoice and Analytics in MERN Stack 
 
-[![Project 1](https://i.postimg.cc/MHhpGVc5/p1.png)](https://github.com/sanjeev567/Mern-Ecommerce)
 
-**E-Commerce shoping app using MERN stack**
+**Description:**
+- Admin panel for attendance tracking that uses facial recognition technology (face-api.js) for contactless attendance marking, along with features for invoice generation and CSV data downloads.
+**Key Features**
 
-- payment gateway integration
-- jwt authentication
-- password Hashing
-- redux - cart state management and many more.
+- Contactless attendance marking
+- JWT Token based authentication
+- RBAC (role based access controll for admin, master, HR)
+- Data Table, Dates, Salary CSV, invoice pdf, 
 
-### Project 2
+**Tech Used:**
+- React, Typescript, Material UI, SCSS, React Big Calendar, ExcelJS, Node.js, Express, JWT, Face-api.js, AWS S3, EC2, Nginx, 
 
-[![Project 2](https://i.postimg.cc/DwQw2W7Q/p2.png)](https://github.com/sanjeev567/atomize-clone)
+### 2. E-Commerce Store Web App in MERN Stack
 
-**Clone using react and sass | Try to make exact as atomize original site looks**
 
-### Project 3
+**Description:**
+-Developed a large-scale e-commerce application using the MERN stack and TypeScript. Implemented features like a custom payment gateway with Stripe, JWT-based Auth, and comprehensive user functionalities, including multi-address management, wishlists, carts, and orders. Utilized Redux for state management and Swagger for API documentation.
+**Key Features**
 
-[![Project 3](https://i.postimg.cc/PqtrNtqg/p3.png)](https://github.com/sanjeev567/sanjeevsingh)
+- Custom Payment gateway Integration
+- User can have multiple address to ship order
+- Order, Wishlist, Cart and Product section.
 
-**Ad searching app**
+**Tech Used:**
+- React, Typescript, Material UI, SCSS,  Strip Payment gateway, Node.js, Express, JWT, AWS S3, EC2, Nginx, 
 
-- implement search across many collections of db using aggregate function.
-
-## Skills
-
-- Programming Languages: Python, JavaScript, Java, Cpp, C
-- Web Dev Skills: HTML5, CSS3, Sass, Bootstrap, tailwind
-- Frameworks and Libraries: React, Node, Express
-- Databases: MySQL, MongoDB
-- Version Control: Git, GitHub
-- Soft Skill: Communication, Writing, Documentation
 
 ---
 

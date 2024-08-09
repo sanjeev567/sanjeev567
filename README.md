@@ -31,15 +31,16 @@ Area Of Expertize
 ---
 ## Experience: 
 **Full Stack Developer** Apr 2024 - Ongoing
-Troibits Infotech Gurugram, IN
-• working on Admin Dashboard to build face recognition attendance system using face-api, roles & permissions, dates, Big Calendar, cron-jobs, multipart api’s, multer, file handling, aws hosting, nginx configurations, pipelines, s3 for image & file upload.
-• working on charts, data tables, .xlsx and pdf invoice generation.
+- Troibits Infotech Gurugram, IN
+- working on Admin Dashboard to build face recognition attendance system using face-api, roles & permissions, dates, Big Calendar, cron-jobs, multipart api’s, multer, file handling, aws hosting, nginx configurations, pipelines, s3 for image & file upload.
+- working on charts, data tables, .xlsx and pdf invoice generation.
 
 Full Stack Trainee Sep 2023 - Apr 2024
-Rudra Innovative Mohali, IN
-• Build E-commerce application, implementing authentication & authorization, roles and permission using JWT token. Design a database schemas and relations. Stripe custom payment gateway integration, written unit and integration tests, create Swagger API docs for testing team.
-• Work on Docker containerization, Utilize AI tools like LLM & langchain to build features: text summarization & chatbots. Written CI/CD pipeline using github, gitlab and jenkins
-• SOLID Principles, DRY Priciples, Code Refactoring to build enterprise level app.
+- Rudra Innovative Mohali, IN
+  
+- Build E-commerce application, implementing authentication & authorization, roles and permission using JWT token. Design a database schemas and relations. Stripe custom payment gateway integration, written unit and integration tests, create Swagger API docs for testing team.
+- Work on Docker containerization, Utilize AI tools like LLM & langchain to build features: text summarization & chatbots. Written CI/CD pipeline using github, gitlab and jenkins
+- SOLID Principles, DRY Priciples, Code Refactoring to build enterprise level app.
 
 ---
 
